@@ -1,0 +1,13 @@
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Projects\C# OOP - Practice\C# OOP Exam - 16 August 2020\FirstTask\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
